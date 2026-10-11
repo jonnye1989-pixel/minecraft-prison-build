@@ -1,0 +1,38 @@
+# Remember, YAML does not understand the 'tab' key. You must use spaces instead. 
+# Note that this plugin REQUIRES you have Vault. Download it here: http://dev.bukkit.org/server-mods/vault/
+
+# If this is true, it will override any groups when someone ranks up. Only worry about this if a given person may have multiple ranks. 
+settings:
+    override-groups: true
+    do-not-edit-this: 1
+# Groups are ordered in the succession you want them to be. Format as follows: rankname: price ( Price can have a decimal place ) 
+ranks:
+    A: 0
+    B: 10000
+    C: 15000
+    D: 25000
+    E: 40000
+    F: 65000
+    G: 100000
+    H: 125000
+    I: 150000
+    J: 175000
+    K: 200000
+    L: 250000
+    M: 300000
+    N: 400000
+    O: 500000
+    P: 750000
+    Q: 1000000
+    R: 1250000
+    S: 1500000
+    T: 1750000
+    U: 2000000
+    V: 2500000
+    W: 4000000
+    X: 8000000
+    Y: 10000000
+    Z: 15000000
+
+
+
