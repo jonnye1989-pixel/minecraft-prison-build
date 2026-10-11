@@ -1,0 +1,22 @@
+uuid: 0a068b24-cd93-4c46-a0ca-b780ec43cba3
+timestamps:
+  login: 1416185122322
+  logout: 1416185406937
+  lastteleport: 1416185369454
+ipAddress: 127.0.0.1
+logoutlocation:
+  world: world
+  x: -19.5
+  y: 174.0
+  z: -40.5
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: world
+  x: -19.5
+  y: 174.0
+  z: -40.92493947427572
+  yaw: 0.0
+  pitch: 0.0
+money: '9941245000.0'
+nickname: CarrotBox

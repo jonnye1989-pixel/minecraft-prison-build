@@ -1,0 +1,388 @@
+# Group inheritance
+#
+# Any inherited groups prefixed with a g: are global groups
+# and are inherited from the GlobalGroups.yml.
+#
+# Groups without the g: prefix are groups local to this world
+# and are defined in the this groups.yml file.
+#
+# Local group inheritances define your promotion tree when using 'manpromote/mandemote'
+
+groups:
+  D:
+    default: false
+    permissions:
+    - essentials.warps.d
+    inheritance:
+    - a
+    - c
+    info:
+      prefix: '&7[&bD&7]'
+      build: false
+      suffix: ''
+  E:
+    default: false
+    permissions:
+    - essentials.warps.e
+    inheritance:
+    - a
+    - d
+    info:
+      prefix: '&7[&bE&7]'
+      build: false
+      suffix: ''
+  Mod:
+    default: false
+    permissions: []
+    inheritance:
+    - a
+    info:
+      prefix: '&cMod&7]'
+      build: false
+      suffix: ''
+  F:
+    default: false
+    permissions:
+    - essentials.warps.f
+    inheritance:
+    - a
+    - e
+    info:
+      prefix: '&7[&bF&7]'
+      build: false
+      suffix: ''
+  G:
+    default: false
+    permissions:
+    - essentials.warps.g
+    inheritance:
+    - a
+    - f
+    info:
+      prefix: '&7[&bG&7]'
+      build: false
+      suffix: ''
+  A:
+    default: true
+    permissions:
+    - essentials.bal
+    - essentials.balance
+    - essentials.balance.others
+    - essentials.balancetop
+    - essentials.build
+    - essentials.emsg
+    - essentials.er
+    - essentials.help
+    - essentials.helpop
+    - essentials.ignore
+    - essentials.kit
+    - essentials.list
+    - essentials.m
+    - essentials.mae
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.me
+    - essentials.motd
+    - essentials.msg
+    - essentials.pay
+    - essentials.ping
+    - essentials.r
+    - essentials.realname
+    - essentials.rules
+    - essentials.seen
+    - essentials.sethome
+    - essentials.sign.use.*
+    - essentials.spawn
+    - essentials.suicde
+    - essentials.suicide
+    - essentials.t
+    - essentials.tell
+    - essentials.w
+    - essentials.warp
+    - essentials.warp.a
+    - essentials.warp.donate
+    - essentials.warp.list
+    - essentials.warp.rules
+    - essentials.warp.wood
+    - essentials.warps.a
+    - essentials.warps.donate
+    - essentials.warps.pvp
+    - essentials.warps.rules
+    - essentials.warps.wood
+    - essentials.whisper
+    - plotme.claim
+    - plotme.use
+    - plotme.use.*
+    inheritance:
+    - a
+    info:
+      prefix: '&7[&bA&7]'
+      build: true
+      suffix: ''
+  B:
+    default: false
+    permissions:
+    - essentials.warps.b
+    inheritance:
+    - a
+    info:
+      prefix: '&7[&bB&7]'
+      build: false
+      suffix: ''
+  C:
+    default: false
+    permissions:
+    - essentials.warps.c
+    inheritance:
+    - a
+    - b
+    info:
+      prefix: '&7[&bC&7]'
+      build: false
+      suffix: ''
+  L:
+    default: false
+    permissions:
+    - essentials.warps.l
+    inheritance:
+    - a
+    - k
+    info:
+      prefix: '&7[&bL&7]'
+      build: false
+      suffix: ''
+  M:
+    default: false
+    permissions:
+    - essentials.warps.m
+    inheritance:
+    - a
+    - l
+    info:
+      prefix: '&7[&bM&7]'
+      build: false
+      suffix: ''
+  N:
+    default: false
+    permissions:
+    - essentials.warps.n
+    inheritance:
+    - a
+    - m
+    info:
+      prefix: '&7[&bN&7]'
+      build: false
+      suffix: ''
+  O:
+    default: false
+    permissions:
+    - essentials.warps.o
+    inheritance:
+    - a
+    - n
+    info:
+      prefix: '&7[&bO&7]'
+      build: false
+      suffix: ''
+  H:
+    default: false
+    permissions:
+    - essentials.warps.h
+    inheritance:
+    - a
+    - g
+    info:
+      prefix: '&7[&bH&7]'
+      build: false
+      suffix: ''
+  I:
+    default: false
+    permissions:
+    - essentials.warps.i
+    inheritance:
+    - a
+    - h
+    info:
+      prefix: '&7[&bI&7]'
+      build: false
+      suffix: ''
+  J:
+    default: false
+    permissions:
+    - essentials.warps.j
+    inheritance:
+    - a
+    - i
+    info:
+      prefix: '&7[&bJ&7]'
+      build: false
+      suffix: ''
+  Admin:
+    default: false
+    permissions: []
+    inheritance:
+    - g:groupmanager_admin
+    - g:bukkit_admin
+    - g:essentials_admin
+    - g:towny_admin
+    - g:vanish_admin
+    info:
+      prefix: '&7[&cAdmin&7]'
+      build: true
+      suffix: ''
+  K:
+    default: false
+    permissions:
+    - essentials.warps.k
+    inheritance:
+    - a
+    - j
+    info:
+      prefix: '&7[&bK&7]'
+      build: false
+      suffix: ''
+  U:
+    default: false
+    permissions:
+    - essentials.warps.u
+    inheritance:
+    - a
+    - t
+    info:
+      prefix: '&7[&bU&7]'
+      build: false
+      suffix: ''
+  T:
+    default: false
+    permissions:
+    - essentials.warps.t
+    inheritance:
+    - a
+    - s
+    info:
+      prefix: '&7[&bT&7]'
+      build: false
+      suffix: ''
+  W:
+    default: false
+    permissions:
+    - essentials.warps.w
+    inheritance:
+    - a
+    - v
+    info:
+      prefix: '&7[&bW&7]'
+      build: false
+      suffix: ''
+  V:
+    default: false
+    permissions:
+    - essentials.warps.v
+    inheritance:
+    - a
+    - u
+    info:
+      prefix: '&7[&bV&7]'
+      build: false
+      suffix: ''
+  Q:
+    default: false
+    permissions:
+    - essentials.warps.q
+    inheritance:
+    - a
+    - p
+    info:
+      prefix: '&7[&bQ&7]'
+      build: false
+      suffix: ''
+  P:
+    default: false
+    permissions:
+    - essentials.warps.p
+    inheritance:
+    - a
+    - o
+    info:
+      prefix: '&7[&bP&7]'
+      build: false
+      suffix: ''
+  S:
+    default: false
+    permissions:
+    - essentials.warps.s
+    inheritance:
+    - a
+    - r
+    info:
+      prefix: '&7[&bS&7]'
+      build: false
+      suffix: ''
+  R:
+    default: false
+    permissions:
+    - essentials.warps.r
+    inheritance:
+    - a
+    - q
+    info:
+      prefix: '&7[&bR&7]'
+      build: false
+      suffix: ''
+  Y:
+    default: false
+    permissions:
+    - essentials.warps.y
+    inheritance:
+    - a
+    - x
+    info:
+      prefix: '&7[&bY&7]'
+      build: false
+      suffix: ''
+  X:
+    default: false
+    permissions:
+    - essentials.warps.x
+    inheritance:
+    - a
+    - w
+    info:
+      prefix: '&7[&bX&7]'
+      build: false
+      suffix: ''
+  Z:
+    default: false
+    permissions:
+    - essentials.warps.z
+    inheritance:
+    - a
+    - y
+    info:
+      prefix: '&7[&bZ&7]'
+      build: false
+      suffix: ''
+  Default:
+    default: false
+    permissions:
+    - -bukkit.command.kill
+    inheritance:
+    - g:groupmanager_default
+    - g:bukkit_default
+    - g:essentials_default
+    - g:towny_default
+    info:
+      prefix: '&e'
+      build: false
+      suffix: ''
+  Owner:
+    default: false
+    permissions:
+    - -vanish.*
+    - '*'
+    inheritance:
+    - admin
+    info:
+      prefix: '&7[&cOwner&7]'
+      build: true
+      suffix: ''

@@ -1,0 +1,22 @@
+users:
+  0a068b24-cd93-4c46-a0ca-b780ec43cba3:
+    lastname: XTheFletcherX
+    group: A
+    subgroups: []
+    permissions:
+    - '*'
+  ElgarL:
+    group: A
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  KHobbits:
+    group: A
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  snowleo:
+    group: A
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms

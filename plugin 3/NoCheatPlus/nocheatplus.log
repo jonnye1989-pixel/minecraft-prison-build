@@ -1,0 +1,18 @@
+14.09.04 11:48:44 [INFO] XTheFletcherX failed SurvivalFly: tried to move unexpectedly. VL 114.
+14.09.04 11:48:45 [INFO] XTheFletcherX failed SurvivalFly: tried to move from -21.84, 174.00, -36.86 to -25.09, 174.00, -37.21 over a distance of 3.27 block(s). VL 427.
+14.09.04 11:48:52 [INFO] XTheFletcherX failed SurvivalFly: tried to move from -21.98, 174.00, -39.09 to -25.22, 174.00, -39.44 over a distance of 3.27 block(s). VL 831.
+14.09.04 11:48:52 [INFO] XTheFletcherX failed SurvivalFly: tried to move from -21.98, 174.00, -39.09 to -28.47, 174.00, -39.80 over a distance of 6.53 block(s). VL 1753.
+14.09.04 11:48:55 [INFO] XTheFletcherX failed Relog: relogs too fast. VL 1.
+14.09.04 11:50:48 [INFO] XTheFletcherX failed SurvivalFly: tried to move unexpectedly. VL 198.
+14.09.04 11:50:48 [INFO] XTheFletcherX failed SurvivalFly: tried to move from -3.10, 65.50, -41.99 to -6.16, 65.50, -40.83 over a distance of 3.27 block(s). VL 495.
+14.09.04 15:11:04 [INFO] XTheFletcherX failed SurvivalFly: tried to move from 314.81, 60.00, -73.90 to 316.67, 62.50, -71.22 over a distance of 4.11 block(s). VL 413.
+14.09.04 15:11:04 [INFO] XTheFletcherX failed SurvivalFly: tried to move from 314.67, 59.00, -74.11 to 318.39, 64.00, -68.75 over a distance of 8.23 block(s). VL 1815.
+14.09.04 15:11:11 [INFO] XTheFletcherX failed Relog: relogs too fast. VL 1.
+14.09.04 15:12:57 [INFO] XTheFletcherX failed SurvivalFly: tried to move unexpectedly. VL 198.
+14.09.04 15:12:57 [INFO] XTheFletcherX failed SurvivalFly: tried to move from 313.93, 62.00, -62.06 to 312.05, 62.00, -59.39 over a distance of 3.27 block(s). VL 495.
+14.09.04 15:12:57 [INFO] XTheFletcherX failed SurvivalFly: tried to move from 313.93, 62.00, -62.06 to 311.20, 62.00, -60.27 over a distance of 3.27 block(s). VL 1715.
+14.09.04 15:13:07 [INFO] XTheFletcherX failed SurvivalFly: tried to move from 313.93, 62.00, -62.06 to 310.67, 62.00, -61.92 over a distance of 3.27 block(s). VL 1927.
+14.09.04 15:13:11 [INFO] XTheFletcherX failed Relog: relogs too fast. VL 2.
+14.09.04 15:13:47 [INFO] XTheFletcherX failed MorePackets: sent too many moves (10 epsacc). VL 10.
+14.09.04 15:13:49 [INFO] XTheFletcherX failed MorePackets: sent too many moves (22 epsacc). VL 22.
+14.09.26 17:50:27 [INFO] XTheFletcherX failed CreativeFly: tried to move from -16.49, 153.75, -53.02 to -17.25, 156.25, -56.19 over a distance of 4.11 block(s). VL 417.
